@@ -40,7 +40,7 @@ echo ""
 echo "-=####.1.####=- You can use type below for masternode.conf in your wallet - just add your 'transaction ID' and index (0/1):"
 echo ""
 echo ""
-echo -e '\E[33;33m'"MN ${IP_ADD}:55000 $masternodekey "; tput sgr0
+echo -e '\E[33;33m'"MN ${IP_ADD}:55500 $masternodekey "; tput sgr0
 echo ""
 echo ""
 echo "-=####.2.####=- Just wait for 15 confirms of your 10000.00 ALQO transaction, make sure that wallet sync and block is like in explorer. Use this command to check:"
